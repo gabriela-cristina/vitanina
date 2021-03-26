@@ -1,0 +1,67 @@
+body {
+    margin: 0 ;
+    background-color: #ffffff ;
+}
+
+#cabeçalho{
+    text-align: center;
+  background-color: #21022d ;
+  color: white;
+  margin: 0;
+  border: solid #21022d 8px;
+  
+
+}
+
+img { height: 150px ;
+    width: 150px;
+
+}
+
+
+#vitaminafinal{
+    height: 300px;
+    width: 600px;
+    display: flex;
+    justify-content:center;
+    padding-top: 32px;
+    text-align: center;
+    
+    
+}
+
+#rodape { text-align: center;
+    background-color: #21022d ;
+    color: white;
+    margin: 0;
+    border: #21022d solid 8px;
+    padding: 8px;
+    
+
+}
+
+#corpoDaPagina{ 
+    background-color: #e2d8e7; 
+    margin-left: 24px ;
+    margin-right: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    color: #21022d;
+    border-top: 16px; 
+    border-left: 16px;
+}
+.vitaminas{ padding-left: 64px ;
+    padding-top: 32px;
+
+}
+#cardapio{ padding-left: 16px;
+    padding-top: 16px;
+
+}
+.noCentro{ display: flex;
+    justify-content: center;
+    padding-top: 64px ;
+
+}
+
+}
